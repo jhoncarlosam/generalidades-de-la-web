@@ -55,7 +55,7 @@ El **apartado de mobile** llegó gracias a la rápida evolución de tecnologías
 - Defina la separación entre áreas públicas y restringidas.
 
 ### Otros temas importantes
-**WebAPIs**(se recomienda usar Apiary), **SPA**(se recomienda usar Frameworks y librerías: React, Angular, ember, Ajax, NodeJS, jQuery), **Arquitectura de Servidores Ligeros**(User ***Interface/Browser* **(*DOM API, HTML5, CSS, JavaScript/TypeScript*)los cuales hacen conexión a través de *HTTP, XMLHttpRequest, WebSocket*. ** *App Server* **(*Static Recourse Service, RESTful Data Service, WebSocket Server Push, Data Access*)) nos permite una mejor escalabilidad y experiencia de usuario, **PWA**(Aplicaciones web progresivas), **Microservicios**(se recomienda desarrollar con la siguiente ruta: ***DevOps, Microservices & API's, Containers, Scalable Cloud Infrastructure* **) consumidores de microservicios: Netflix, Twitter, Uber, Facebook, Paypal, Amazon, Soundcloud.
+**WebAPIs**(se recomienda usar Apiary), **SPA**(se recomienda usar Frameworks y librerías: React, Angular, ember, Ajax, NodeJS, jQuery), **Arquitectura de Servidores Ligeros**(User **Interface/Browser**(*DOM API, HTML5, CSS, JavaScript/TypeScript*)los cuales hacen conexión a través de *HTTP, XMLHttpRequest, WebSocket*. **App Server**(*Static Recourse Service, RESTful Data Service, WebSocket Server Push, Data Access*)) nos permite una mejor escalabilidad y experiencia de usuario, **PWA**(Aplicaciones web progresivas), **Microservicios**(se recomienda desarrollar con la siguiente ruta: **DevOps, Microservices & API's, Containers, Scalable Cloud Infrastructure**) consumidores de microservicios: Netflix, Twitter, Uber, Facebook, Paypal, Amazon, Soundcloud.
 
 ### Plataformas y Frameworks para Microservicios
 #### Java
